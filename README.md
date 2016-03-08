@@ -2,7 +2,7 @@
 
 ##Project Name: Project 0.0 "Hello World Project"
 
-###A. Online Screenshots
+###A. Design
 ![img](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_darylloveros/blob/master/Home.png)
 ![img](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_darylloveros/blob/master/Main.png)
 ![img](https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/DISMATH_Project0.0_darylloveros/blob/master/About.Me.png)
